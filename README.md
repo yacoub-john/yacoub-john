@@ -22,7 +22,7 @@
 
 [<img align="left" alt="Arduino" width="26px" src="https://user-images.githubusercontent.com/89855894/152090928-c9de8e70-07a1-49c8-951c-90b71998d19d.png" />][link]
 
-[<img align="left" alt=C++" width="26px" src="https://user-images.githubusercontent.com/89855894/152090978-0f72f03a-2804-4781-97a2-34e78000feda.png" />][link]
+[<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/89855894/152090978-0f72f03a-2804-4781-97a2-34e78000feda.png" />][link]
 
 [<img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/89855894/152091014-0af42338-67a9-49e8-b0b2-0b7d3bda7cdd.png" />][link]
 
