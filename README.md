@@ -3,7 +3,7 @@
 - 🔭 I'm a second year Software Engineering Student
 - 🌱 I’m currently learning BASH Scripting
 - 🥅 2022 Goal: Learn Data Structures and Algorithms.  
-- ⚡ Fun fact: I love to read and listent to music.
+- ⚡ Fun fact: I love to read and listen to music.
 
 ### Connect with me:
 
