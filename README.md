@@ -15,8 +15,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/152090721-281b398f-3f59-4f2a-b456-a53acc0a0527.png" />][link]
-
+[<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/89855894/152472852-c832730f-771f-47d4-9eaa-2d4e5ab73763.png" />][link]
 
 [<img align="left" alt="Arduino" width="26px" src="https://user-images.githubusercontent.com/89855894/152472381-b4c9a250-55c3-40be-a8eb-3780d87cfaff.png" />][link]
 
@@ -25,16 +24,19 @@
 [<img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/89855894/152091014-0af42338-67a9-49e8-b0b2-0b7d3bda7cdd.png" />][link]
 
 [<img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/89855894/152472090-1d359e41-da71-4461-ad4e-121db4d00191.png" />][link]
+
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/89855894/152472017-7b941f63-fb9e-4f84-b836-f242713c1ddf.png" />][link]
+
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][link]
 [<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/89855894/152091335-805fb790-a168-4683-9478-5d292d892ba6.png" />][link]
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][link]
+
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][link]
+
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][link]
+
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][link]
-
-
-
 
 <br />
 <br />
