@@ -18,7 +18,7 @@
 [<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/89855894/152090721-281b398f-3f59-4f2a-b456-a53acc0a0527.png" />][link]
 
 
-[<img align="left" alt="Arduino" width="26px" src="https://user-images.githubusercontent.com/89855894/152472166-79330fb8-7ac5-4f83-ad0e-e0de30060d87.png" />][link]
+[<img align="left" alt="Arduino" width="26px" src="https://user-images.githubusercontent.com/89855894/152472279-2dd01d70-73c2-4427-ab27-6220b8228c70.png" />][link]
 
 [<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/89855894/152090978-0f72f03a-2804-4781-97a2-34e78000feda.png" />][link]
 
