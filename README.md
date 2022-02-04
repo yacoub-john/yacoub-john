@@ -15,7 +15,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/89855894/152472852-c832730f-771f-47d4-9eaa-2d4e5ab73763.png" />][link]
+[<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/89855894/152472938-3c662589-6e4d-4dc7-8edd-e9fcd7c2bbad.png" />][link]
 
 [<img align="left" alt="Arduino" width="26px" src="https://user-images.githubusercontent.com/89855894/152472381-b4c9a250-55c3-40be-a8eb-3780d87cfaff.png" />][link]
 
