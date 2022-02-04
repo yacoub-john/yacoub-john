@@ -18,7 +18,7 @@
 [<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/89855894/152090721-281b398f-3f59-4f2a-b456-a53acc0a0527.png" />][link]
 
 
-[<img align="left" alt="Arduino" width="26px" src="https://user-images.githubusercontent.com/89855894/152472279-2dd01d70-73c2-4427-ab27-6220b8228c70.png" />][link]
+[<img align="left" alt="Arduino" width="26px" src="hhttps://user-images.githubusercontent.com/89855894/152472381-b4c9a250-55c3-40be-a8eb-3780d87cfaff.png" />][link]
 
 [<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/89855894/152090978-0f72f03a-2804-4781-97a2-34e78000feda.png" />][link]
 
@@ -32,6 +32,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][link]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][link]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][link]
+
 
 <br />
 <br />
