@@ -7,11 +7,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/89855894/152471597-9fe31dd5-41cb-4f8b-b439-a9f0c7e91dc2.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/89855894/152471764-b29a2ba5-c33e-4894-86ad-0c5711d165a8.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://user-images.githubusercontent.com/89855894/152471666-eaa74bdc-4c07-4026-8d35-04571f678742.png" />][instagram]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://user-images.githubusercontent.com/89855894/152471724-d692d3c4-4e00-4816-b76c-c1bda3e2536b.png" />][twitter]
-
-
 
 <br />
 
