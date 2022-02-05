@@ -28,9 +28,14 @@
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/89855894/152472017-7b941f63-fb9e-4f84-b836-f242713c1ddf.png" />][link]
 
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][link]
+
+[<img align="left" alt="Vm " width="26px" src="https://user-images.githubusercontent.com/89855894/152649219-595e0893-6af0-411e-ab64-7039e0892635.pn" />][link]
+
 [<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/89855894/152091335-805fb790-a168-4683-9478-5d292d892ba6.png" />][link]
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][link]
+
+[<img align="left" alt="Visual Basic" width="26px" src="https://user-images.githubusercontent.com/89855894/152649249-6118d26f-8fe2-49cc-96c3-78a48074286f.png" />][link]
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][link]
 
