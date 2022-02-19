@@ -1,7 +1,7 @@
 ### Hi there, I'm John Yacoub 👋 
 
-- 🔭 I'm a second year Software Engineering Student
-- 🌱 I’m currently learning BASH Scripting
+- 🔭 I'm a second year Software Engineering Student.
+- 🌱 I’m currently learning BASH Scripting.
 - 🥅 2022 Goal: Continue to learn Data Structures and Algorithms.  
 - ⚡ Fun fact: I love to read and listen to music.
 
@@ -53,7 +53,7 @@
 </details>
 
 
-[link]: google.com
+[link]: https://www.google.com
 [instagram]: https://www.instagram.com/john_yacoub
 [linkedin]: https://www.linkedin.com/in/john-yacoub-a01ba31b4/
 [twitter]: https://twitter.com/John25728210
