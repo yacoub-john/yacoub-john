@@ -15,31 +15,31 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/89855894/152472938-3c662589-6e4d-4dc7-8edd-e9fcd7c2bbad.png" />][link]
+[<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/89855894/152472938-3c662589-6e4d-4dc7-8edd-e9fcd7c2bbad.png" />][linkJava]
 
-[<img align="left" alt="Arduino" width="26px" src="https://user-images.githubusercontent.com/89855894/152472381-b4c9a250-55c3-40be-a8eb-3780d87cfaff.png" />][link]
+[<img align="left" alt="Arduino" width="26px" src="https://user-images.githubusercontent.com/89855894/152472381-b4c9a250-55c3-40be-a8eb-3780d87cfaff.png" />][linkArduino]
 
-[<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/89855894/152090978-0f72f03a-2804-4781-97a2-34e78000feda.png" />][link]
+[<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/89855894/152090978-0f72f03a-2804-4781-97a2-34e78000feda.png" />][linkC++]
 
-[<img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/89855894/152091014-0af42338-67a9-49e8-b0b2-0b7d3bda7cdd.png" />][link]
+[<img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/89855894/152091014-0af42338-67a9-49e8-b0b2-0b7d3bda7cdd.png" />][linkC]
 
-[<img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/89855894/152472090-1d359e41-da71-4461-ad4e-121db4d00191.png" />][link]
+[<img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/89855894/152472090-1d359e41-da71-4461-ad4e-121db4d00191.png" />][linkGIT]
 
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/89855894/152472017-7b941f63-fb9e-4f84-b836-f242713c1ddf.png" />][link]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/89855894/152472017-7b941f63-fb9e-4f84-b836-f242713c1ddf.png" />][linkGithub]
 
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][link]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkTerminal]
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][link]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkVSCode]
 
-[<img align="left" alt="Visual Basic" width="26px" src="https://user-images.githubusercontent.com/89855894/152649322-044920b9-a660-4592-af18-d470e83a3047.png" />][link]
+[<img align="left" alt="Visual Basic" width="26px" src="https://user-images.githubusercontent.com/89855894/152649322-044920b9-a660-4592-af18-d470e83a3047.png" />][linkVSBasic]
 
-[<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/89855894/152091335-805fb790-a168-4683-9478-5d292d892ba6.png" />][link]
+[<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/89855894/152091335-805fb790-a168-4683-9478-5d292d892ba6.png" />][linkPython]
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][link]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkHTML]
 
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][link]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkCSS]
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][link]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkJScript]
 
 <br />
 <br />
@@ -53,7 +53,23 @@
 </details>
 
 
-[link]: https://www.google.com
+[linkJava]: https://www.google.com/search?q=Java
+[linkArduino]: https://www.google.com/search?q=Arduino
+[linkC++]: https://www.google.com/search?q=C%2B%2B
+[linkC]: https://www.google.com/search?q=C
+[linkGIT]: https://www.google.com/search?q=GIT
+[linkGitHub]: https://www.google.com/search?q=Github
+[linkTerminal]: https://www.google.com/search?q=Terminal
+[linkVSCode]: https://www.google.com/search?q=VSCode
+[linkVSBasic]: https://www.google.com/search?q=VSBasic
+[linkPython]: https://www.google.com/search?q=Python
+[linkHTML]: https://www.google.com/search?q=HTML
+[linkCSS]: https://www.google.com/search?q=CSS
+[linkJScript]: https://www.google.com/search?q=JavaScript
+
+
+
+
 [instagram]: https://www.instagram.com/john_yacoub
 [linkedin]: https://www.linkedin.com/in/john-yacoub-a01ba31b4/
 [twitter]: https://twitter.com/John25728210
