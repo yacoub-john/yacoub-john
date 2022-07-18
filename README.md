@@ -42,14 +42,6 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkJScript]
 
 <br />
-
-
-### Profile Views:
-
-![](https://komarev.com/ghpvc/?username=yacoub-john&color=blue&label=Profile+Views&style=plastic)
-
-
-<br />
 <br />
 
 ---
@@ -57,6 +49,7 @@
   <summary>:zap:GitHub Stats</summary>
 
   <img align="left" alt="John Yacoub's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yacoub-john&show_icons=true&hide_border=true" />
+  ![](https://komarev.com/ghpvc/?username=yacoub-john&color=blue&label=Profile+Views&style=plastic)
 
 </details>
 
