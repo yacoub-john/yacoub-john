@@ -48,7 +48,7 @@
 <details>
   <summary>:zap:GitHub Stats</summary>
   
-    ![](https://komarev.com/ghpvc/?username=yacoub-john&color=blue&label=Profile+Views&style=plastic)
+  ![](https://komarev.com/ghpvc/?username=yacoub-john&color=blue&label=Profile+Views&style=plastic)
     <br />
 
   <img align="left" alt="John Yacoub's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yacoub-john&show_icons=true&hide_border=true" />
