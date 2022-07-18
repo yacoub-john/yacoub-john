@@ -5,7 +5,7 @@
 - 🥅 2022 Goal: Continue to learn Data Structures and Algorithms.  
 - ⚡ Fun fact: I love to read and listen to music.
 
-### Connect with me:
+### 🔗 Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/89855894/152471764-b29a2ba5-c33e-4894-86ad-0c5711d165a8.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://user-images.githubusercontent.com/89855894/152471666-eaa74bdc-4c07-4026-8d35-04571f678742.png" />][instagram]
@@ -13,7 +13,8 @@
 
 <br />
 
-### Languages and Tools:
+### :hammer_and_wrench: Languages and Tools:
+
 
 [<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/89855894/152472938-3c662589-6e4d-4dc7-8edd-e9fcd7c2bbad.png" />][linkJava]
 
@@ -46,7 +47,7 @@
 
 ---
 <details>
-  <summary>:zap:GitHub Stats</summary>
+  <summary> :computer: GitHub Stats</summary>
  
   <br />
 
