@@ -46,7 +46,7 @@
 
 ### Profile Views:
 
-![](https://komarev.com/ghpvc/?username=your-github-/yacoub-john&color=blue&label=Profile+Views&style=plastic)
+![](https://komarev.com/ghpvc/?username=yacoub-john&color=blue&label=Profile+Views&style=plastic)
 
 
 <br />
