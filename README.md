@@ -1,7 +1,7 @@
 ### Hi there, I'm John Yacoub 👋 
 
 - 🔭 I'm a second year Software Engineering Student.
-- 🌱 I’m currently learning C programming.
+- 🌱 I’m currently learning C++ programming.
 - 🥅 2022 Goal: Continue to learn Data Structures and Algorithms.  
 - ⚡ Fun fact: I love to read and listen to music.
 
