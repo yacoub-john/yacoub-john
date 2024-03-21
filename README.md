@@ -52,6 +52,9 @@
   <br />
 
   ![](https://komarev.com/ghpvc/?username=yacoub-john&color=blue&label=Profile+Views&style=plastic)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yacoub-john&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
    
   <br />
 
