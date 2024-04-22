@@ -62,15 +62,14 @@
  
   <br />
 
-  ![](https://komarev.com/ghpvc/?username=yacoub-john&color=blue&label=Profile+Views&style=plastic)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yacoub-john&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+  <p align=center>  
+    <img align="center" alt="FPGA" width="200px" src="https://komarev.com/ghpvc/?username=yacoub-john&color=blue&label=Profile+Views&style=plastic" />
+   <br />
+     <br />
+    <img width ="40%" src="https://github-readme-stats.vercel.app/api?username=yacoub-john&show_icons=true&theme=blue">
+    <img  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yacoub-john&layout=compact&theme=blue" />
+  </p>
    
-  <br />
-
-  <img align="left" alt="John Yacoub's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yacoub-john&show_icons=true&hide_border=true" />
-
 
 </details>
 
