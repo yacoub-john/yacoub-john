@@ -1,46 +1,57 @@
-### Hi there, I'm John Yacoub 👋 
+<h2 align="center">👋 Hi there, I'm John Yacoub ✨</h2>
+<ul>
+  <li><p align="left"> 📚Current 4th Year Software Engineering Student at Lassonde School of Engineering, York University </p></li>
+  <li><p align="left"> ⚙️Previous SWE Intern @Dell and Phoenix Geophysics </p> </li>
+  <li><p align="left"> 🏆2024 Goal: Learn Digital Logic Design and System Design </p></li>
+  <li><p align="left"> 💡Interested in working on side projects in embedded systems, C++, web, and backend development.</p></li>
+</ul>
 
-- 🔭 I'm a fourth year Software Engineering Student.
-- 🌱 I’m currently learning Design and Analysis of Algorithms.
-- 🥅 2023 Goal: Learn Digital Logic Design and System Design.  
-- ⚡ Fun fact: I love to read and listen to music.
+<h2 align="center">🔗 Connect with me ✨  </h2>
+<p align="center">
+  <a href="mailto:john12yacoub@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+  </a> 
+    <a href="https://www.linkedin.com/in/john-yacoub-a01ba31b4">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>  
+  </a> 
+    <a href="https://twitter.com/John25728210">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=25>  
+  </a> 
+</p>
+</p>
+</p>
 
-### 🔗 Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/89855894/152471764-b29a2ba5-c33e-4894-86ad-0c5711d165a8.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://user-images.githubusercontent.com/89855894/152471666-eaa74bdc-4c07-4026-8d35-04571f678742.png" />][instagram]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://user-images.githubusercontent.com/89855894/152471724-d692d3c4-4e00-4816-b76c-c1bda3e2536b.png" />][twitter]
+<h2 align="center">:hammer_and_wrench: Languages and Tools ✨  </h2>
 
-<br />
+<p align="center">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt =   "Javascript">
+   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ  IDEA">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"   alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Terminal-2E2E2E?style=for-the-badge&logo=Windows+Terminal&logoColor=ffffff"  alt="Command Line">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <br />
 
-### :hammer_and_wrench: Languages and Tools:
+  <img align="center" alt="Arduino" width="70px" src="https://logowik.com/content/uploads/images/arduino5804.jpg" />
+  <img align="center" alt="Verilog" width="70px" src="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-256x256-goe8p7qm.png" />
+  <img align="center" alt="Embedded Systems" width="70px" src="https://images.credly.com/images/a78aa004-c58a-4d41-87da-ca7614fd8b76/Embeded_Systems_Badge.png" />
+  <img align="center" alt="FPGA" width="70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvslNUHhQsGX47yuT7VBxtnX3kXD7dwHp-MfH6I6hnuw&s" />
+  <p align=center>  
+  </p>
+</p>
 
+ 
 
-[<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/89855894/152472938-3c662589-6e4d-4dc7-8edd-e9fcd7c2bbad.png" />][linkJava]
-
-[<img align="left" alt="Arduino" width="26px" src="https://user-images.githubusercontent.com/89855894/152472381-b4c9a250-55c3-40be-a8eb-3780d87cfaff.png" />][linkArduino]
-
-[<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/89855894/152090978-0f72f03a-2804-4781-97a2-34e78000feda.png" />][linkC++]
-
-[<img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/89855894/152091014-0af42338-67a9-49e8-b0b2-0b7d3bda7cdd.png" />][linkC]
-
-[<img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/89855894/152472090-1d359e41-da71-4461-ad4e-121db4d00191.png" />][linkGIT]
-
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/89855894/152472017-7b941f63-fb9e-4f84-b836-f242713c1ddf.png" />][linkGithub]
-
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkTerminal]
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkVSCode]
-
-[<img align="left" alt="Visual Basic" width="26px" src="https://user-images.githubusercontent.com/89855894/152649322-044920b9-a660-4592-af18-d470e83a3047.png" />][linkVSBasic]
-
-[<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/89855894/152091335-805fb790-a168-4683-9478-5d292d892ba6.png" />][linkPython]
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkHTML]
-
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkCSS]
-
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkJScript]
 
 <br />
 <br />
@@ -63,24 +74,3 @@
 
 </details>
 
-
-[linkJava]: https://www.google.com/search?q=Java
-[linkArduino]: https://www.google.com/search?q=Arduino
-[linkC++]: https://www.google.com/search?q=C%2B%2B
-[linkC]: https://www.google.com/search?q=C
-[linkGIT]: https://www.google.com/search?q=GIT
-[linkGitHub]: https://www.google.com/search?q=Github
-[linkTerminal]: https://www.google.com/search?q=Terminal
-[linkVSCode]: https://www.google.com/search?q=VSCode
-[linkVSBasic]: https://www.google.com/search?q=VSBasic
-[linkPython]: https://www.google.com/search?q=Python
-[linkHTML]: https://www.google.com/search?q=HTML
-[linkCSS]: https://www.google.com/search?q=CSS
-[linkJScript]: https://www.google.com/search?q=JavaScript
-
-
-
-
-[instagram]: https://www.instagram.com/john_yacoub
-[linkedin]: https://www.linkedin.com/in/john-yacoub-a01ba31b4/
-[twitter]: https://twitter.com/John25728210
