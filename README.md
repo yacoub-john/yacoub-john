@@ -1,9 +1,11 @@
 <h2 align="center">👋 Hi there, I'm John Yacoub ✨</h2>
 <ul>
-  <li><p align="left"> 📚Current 4th Year Software Engineering Student at Lassonde School of Engineering, York University </p></li>
-  <li><p align="left"> ⚙️Previous SWE Intern @Dell and Phoenix Geophysics </p> </li>
-  <li><p align="left"> 🏆2024 Goal: Learn Digital Logic Design and System Design </p></li>
-  <li><p align="left"> 💡Interested in working on side projects in embedded systems, C++, web, and backend development.</p></li>
+  <li><p align="left">🎓 Recent Software Engineering Graduate from Lassonde School of Engineering, York University</p></li>
+  <li><p align="left">💼 Previous Software Engineering Intern @Dell Technologies and Phoenix Geophysics</p></li>
+  <li><p align="left">🤖 Passionate about AI, Machine Learning, and Large Language Models (LLMs) — currently exploring research and real-world applications</p></li>
+  <li><p align="left">💻 Actively building projects in embedded systems, web development, and backend engineering using C++, Python, and JavaScript</p></li>
+  <li><p align="left">🧠 2025 Goal: Dive deeper into ML system design, AI safety, and scalable software architectures</p></li>
+  <li><p align="left">🚀 Always open to collaborations on research-driven or impactful engineering projects that push technology forward</p></li>
 </ul>
 
 <h2 align="center">🔗 Connect with me ✨  </h2>
